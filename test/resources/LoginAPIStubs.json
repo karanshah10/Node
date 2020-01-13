@@ -1,0 +1,16 @@
+{
+               "loginSuccess":{
+                              "name":"karan123",
+                              "password":"karan123",
+                              "email":"karan123@peaas.co"
+               },
+               "incorrectPassword":{
+                              "name":"karan123",
+                              "emial":"karan123"
+               },
+               "incorrectPasswordMin":{
+                              "name": "wwordsworth",
+                              "password": "123",
+                              "email": "test@gmail.com"
+                          }
+}
